@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @hassanaitnacer
+- 👀 I’m interested in software development, Big Data, and AI
+- 🌱 I’m currently learning new skills in these interests (e.g., Embedded Systems, IoT, BI, etc.)
+- 📫 How to reach me? [Twitter](https://twitter.com/itshassannacer) or [LinkedIn](https://linkedin.com/in/hassanaitnacer)
